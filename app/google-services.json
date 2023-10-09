@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "864553280351",
+    "project_id": "funnight-c060d",
+    "storage_bucket": "funnight-c060d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864553280351:android:b84da8c48230eaa86a0cea",
+        "android_client_info": {
+          "package_name": "com.anthony.explore24"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "864553280351-j6alfhnpid74t2hhf8pjut25cujqgtjj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQm0NrW-OlWVYl6iQSjMb0Mo6XQnDcKNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "864553280351-j6alfhnpid74t2hhf8pjut25cujqgtjj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

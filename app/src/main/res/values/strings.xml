@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Funnight</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="location">Your Location</string>
+    <string name="location_icon">Location Icon</string>
+    <string name="search">Search</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+    <string name="API_KEY" tools:ignore="TypographyDashes">AIzaSyCp8EH4ROgkG3IS8fKlUYe7gUKhCloB--w</string>
+    <string name="title_activity_list">ListActivity</string>
+    <string name="navigation">Navigation</string>
+    <string name="popular_places">Popular Places</string>
+    <string name="recommended_by_google">Recommended by Google</string>
+    <string name="bar">Bar</string>
+    <string name="restaurant">Restaurant</string>
+    <string name="photobooth">PhotoBooth</string>
+    <string name="cafe">Cafe</string>
+</resources>
